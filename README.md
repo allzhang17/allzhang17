@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @allzhang17
 - 👀 I’m interested in biostatistics and data analytics!
-- 🌱 Currently learning SAS/SQL 
+- 🌱 Currently learning SQL 
 - 💞️ Looking to collaborate on data modelling projects 
 - 📫 Find me on LinkedIn @ Allison Zhang!
 
